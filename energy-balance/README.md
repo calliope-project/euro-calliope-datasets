@@ -1,0 +1,3 @@
+Data in this directory has been created to translate Eurostat energy balance carrier (`carrier-names.csv`) / sector (`category-names.csv`) codes to full names. Codes are given in the Eurostat energy balances downloadable TSV data file used in the Euro-Calliope workflow. Names were extracted from the [Energy balance Excel files](https://ec.europa.eu/eurostat/web/energy/data/energy-balances).
+
+In addition to code->name translation, industry subsector JRC-IDEES translations are also given. These are predominantly small variations in character choice (e.g. "&" vs "and").
