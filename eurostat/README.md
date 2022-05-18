@@ -5,7 +5,7 @@ For instance, when sub-national NUTS administrative units are updated (every 3-5
 Some member states choose to do this, but not all. Equally, not all datasets are updated at the same time.
 Also, when countries stop contributing data to Eurostat, such as the UK from 2021, historical data for certain datasets are lost entirely for that country.
 Some datasets stored here may not differ from the current version available directly on Eurostat.
-However we still store a static version here, to mitigate against the possibility that a new version of the dataset does introduce inconsistencies.
+Nevertheless, we still store a static version here to mitigate against the possibility that a new version of the dataset does introduce inconsistencies.
 
 The below named datasets are used in Euro-Calliope and have been downloaded before the UK left the European Union and before NUTS2021 entered into force.
 File names correspond to respective Eurostat dataset codes.
